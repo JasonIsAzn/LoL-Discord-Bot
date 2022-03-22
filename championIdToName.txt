@@ -1,0 +1,154 @@
+11.1.1
+266, Aatrox, ['Fighter', 'Tank'], the Darkin Blade
+103, Ahri, ['Mage', 'Assassin'], the Nine-Tailed Fox
+84, Akali, ['Assassin'], the Rogue Assassin
+12, Alistar, ['Tank', 'Support'], the Minotaur
+32, Amumu, ['Tank', 'Mage'], the Sad Mummy
+34, Anivia, ['Mage', 'Support'], the Cryophoenix
+1, Annie, ['Mage'], the Dark Child
+523, Aphelios, ['Marksman'], the Weapon of the Faithful
+22, Ashe, ['Marksman', 'Support'], the Frost Archer
+136, Aurelion Sol, ['Mage'], The Star Forger
+268, Azir, ['Mage', 'Marksman'], the Emperor of the Sands
+432, Bard, ['Support', 'Mage'], the Wandering Caretaker
+53, Blitzcrank, ['Tank', 'Fighter'], the Great Steam Golem
+63, Brand, ['Mage'], the Burning Vengeance
+201, Braum, ['Support', 'Tank'], the Heart of the Freljord
+51, Caitlyn, ['Marksman'], the Sheriff of Piltover
+164, Camille, ['Fighter', 'Tank'], the Steel Shadow
+69, Cassiopeia, ['Mage'], the Serpent's Embrace
+31, Cho'Gath, ['Tank', 'Mage'], the Terror of the Void
+42, Corki, ['Marksman'], the Daring Bombardier
+122, Darius, ['Fighter', 'Tank'], the Hand of Noxus
+131, Diana, ['Fighter', 'Mage'], Scorn of the Moon
+119, Draven, ['Marksman'], the Glorious Executioner
+36, Dr. Mundo, ['Fighter', 'Tank'], the Madman of Zaun
+245, Ekko, ['Assassin', 'Fighter'], the Boy Who Shattered Time
+60, Elise, ['Mage', 'Fighter'], the Spider Queen
+28, Evelynn, ['Assassin', 'Mage'], Agony's Embrace
+81, Ezreal, ['Marksman', 'Mage'], the Prodigal Explorer
+9, Fiddlesticks, ['Mage', 'Support'], the Ancient Fear
+114, Fiora, ['Fighter', 'Assassin'], the Grand Duelist
+105, Fizz, ['Assassin', 'Fighter'], the Tidal Trickster
+3, Galio, ['Tank', 'Mage'], the Colossus
+41, Gangplank, ['Fighter'], the Saltwater Scourge
+86, Garen, ['Fighter', 'Tank'], The Might of Demacia
+150, Gnar, ['Fighter', 'Tank'], the Missing Link
+79, Gragas, ['Fighter', 'Mage'], the Rabble Rouser
+104, Graves, ['Marksman'], the Outlaw
+120, Hecarim, ['Fighter', 'Tank'], the Shadow of War
+74, Heimerdinger, ['Mage', 'Support'], the Revered Inventor
+420, Illaoi, ['Fighter', 'Tank'], the Kraken Priestess
+39, Irelia, ['Fighter', 'Assassin'], the Blade Dancer
+427, Ivern, ['Support', 'Mage'], the Green Father
+40, Janna, ['Support', 'Mage'], the Storm's Fury
+59, Jarvan IV, ['Tank', 'Fighter'], the Exemplar of Demacia
+24, Jax, ['Fighter', 'Assassin'], Grandmaster at Arms
+126, Jayce, ['Fighter', 'Marksman'], the Defender of Tomorrow
+202, Jhin, ['Marksman', 'Mage'], the Virtuoso
+222, Jinx, ['Marksman'], the Loose Cannon
+145, Kai'Sa, ['Marksman'], Daughter of the Void
+429, Kalista, ['Marksman'], the Spear of Vengeance
+43, Karma, ['Mage', 'Support'], the Enlightened One
+30, Karthus, ['Mage'], the Deathsinger
+38, Kassadin, ['Assassin', 'Mage'], the Void Walker
+55, Katarina, ['Assassin', 'Mage'], the Sinister Blade
+10, Kayle, ['Fighter', 'Support'], the Righteous
+141, Kayn, ['Fighter', 'Assassin'], the Shadow Reaper
+85, Kennen, ['Mage', 'Marksman'], the Heart of the Tempest
+121, Kha'Zix, ['Assassin'], the Voidreaver
+203, Kindred, ['Marksman'], The Eternal Hunters
+240, Kled, ['Fighter', 'Tank'], the Cantankerous Cavalier
+96, Kog'Maw, ['Marksman', 'Mage'], the Mouth of the Abyss
+7, LeBlanc, ['Assassin', 'Mage'], the Deceiver
+64, Lee Sin, ['Fighter', 'Assassin'], the Blind Monk
+89, Leona, ['Tank', 'Support'], the Radiant Dawn
+876, Lillia, ['Fighter', 'Mage'], the Bashful Bloom
+127, Lissandra, ['Mage'], the Ice Witch
+236, Lucian, ['Marksman'], the Purifier
+117, Lulu, ['Support', 'Mage'], the Fae Sorceress
+99, Lux, ['Mage', 'Support'], the Lady of Luminosity
+54, Malphite, ['Tank', 'Fighter'], Shard of the Monolith
+90, Malzahar, ['Mage', 'Assassin'], the Prophet of the Void
+57, Maokai, ['Tank', 'Mage'], the Twisted Treant
+11, Master Yi, ['Assassin', 'Fighter'], the Wuju Bladesman
+21, Miss Fortune, ['Marksman'], the Bounty Hunter
+62, Wukong, ['Fighter', 'Tank'], the Monkey King
+82, Mordekaiser, ['Fighter'], the Iron Revenant
+25, Morgana, ['Mage', 'Support'], the Fallen
+267, Nami, ['Support', 'Mage'], the Tidecaller
+75, Nasus, ['Fighter', 'Tank'], the Curator of the Sands
+111, Nautilus, ['Tank', 'Fighter'], the Titan of the Depths
+518, Neeko, ['Mage', 'Support'], the Curious Chameleon
+76, Nidalee, ['Assassin', 'Mage'], the Bestial Huntress
+56, Nocturne, ['Assassin', 'Fighter'], the Eternal Nightmare
+20, Nunu & Willump, ['Tank', 'Fighter'], the Boy and His Yeti
+2, Olaf, ['Fighter', 'Tank'], the Berserker
+61, Orianna, ['Mage', 'Support'], the Lady of Clockwork
+516, Ornn, ['Tank', 'Fighter'], The Fire below the Mountain
+80, Pantheon, ['Fighter', 'Assassin'], the Unbreakable Spear
+78, Poppy, ['Tank', 'Fighter'], Keeper of the Hammer
+555, Pyke, ['Support', 'Assassin'], the Bloodharbor Ripper
+246, Qiyana, ['Assassin', 'Fighter'], Empress of the Elements
+133, Quinn, ['Marksman', 'Assassin'], Demacia's Wings
+497, Rakan, ['Support'], The Charmer
+33, Rammus, ['Tank', 'Fighter'], the Armordillo
+421, Rek'Sai, ['Fighter'], the Void Burrower
+526, Rell, ['Tank'], the Iron Maiden
+58, Renekton, ['Fighter', 'Tank'], the Butcher of the Sands
+107, Rengar, ['Assassin', 'Fighter'], the Pridestalker
+92, Riven, ['Fighter', 'Assassin'], the Exile
+68, Rumble, ['Fighter', 'Mage'], the Mechanized Menace
+13, Ryze, ['Mage', 'Fighter'], the Rune Mage
+360, Samira, ['Marksman'], the Desert Rose
+113, Sejuani, ['Tank', 'Fighter'], Fury of the North
+235, Senna, ['Marksman', 'Support'], the Redeemer
+147, Seraphine, ['Mage', 'Support'], the Starry-Eyed Songstress
+875, Sett, ['Fighter', 'Tank'], the Boss
+35, Shaco, ['Assassin'], the Demon Jester
+98, Shen, ['Tank'], the Eye of Twilight
+102, Shyvana, ['Fighter', 'Tank'], the Half-Dragon
+27, Singed, ['Tank', 'Fighter'], the Mad Chemist
+14, Sion, ['Tank', 'Fighter'], The Undead Juggernaut
+15, Sivir, ['Marksman'], the Battle Mistress
+72, Skarner, ['Fighter', 'Tank'], the Crystal Vanguard
+37, Sona, ['Support', 'Mage'], Maven of the Strings
+16, Soraka, ['Support', 'Mage'], the Starchild
+50, Swain, ['Mage', 'Fighter'], the Noxian Grand General
+517, Sylas, ['Mage', 'Assassin'], the Unshackled
+134, Syndra, ['Mage', 'Support'], the Dark Sovereign
+223, Tahm Kench, ['Support', 'Tank'], the River King
+163, Taliyah, ['Mage', 'Support'], the Stoneweaver
+91, Talon, ['Assassin'], the Blade's Shadow
+44, Taric, ['Support', 'Fighter'], the Shield of Valoran
+17, Teemo, ['Marksman', 'Assassin'], the Swift Scout
+412, Thresh, ['Support', 'Fighter'], the Chain Warden
+18, Tristana, ['Marksman', 'Assassin'], the Yordle Gunner
+48, Trundle, ['Fighter', 'Tank'], the Troll King
+23, Tryndamere, ['Fighter', 'Assassin'], the Barbarian King
+4, Twisted Fate, ['Mage'], the Card Master
+29, Twitch, ['Marksman', 'Assassin'], the Plague Rat
+77, Udyr, ['Fighter', 'Tank'], the Spirit Walker
+6, Urgot, ['Fighter', 'Tank'], the Dreadnought
+110, Varus, ['Marksman', 'Mage'], the Arrow of Retribution
+67, Vayne, ['Marksman', 'Assassin'], the Night Hunter
+45, Veigar, ['Mage'], the Tiny Master of Evil
+161, Vel'Koz, ['Mage'], the Eye of the Void
+254, Vi, ['Fighter', 'Assassin'], the Piltover Enforcer
+112, Viktor, ['Mage'], the Machine Herald
+8, Vladimir, ['Mage'], the Crimson Reaper
+106, Volibear, ['Fighter', 'Tank'], the Relentless Storm
+19, Warwick, ['Fighter', 'Tank'], the Uncaged Wrath of Zaun
+498, Xayah, ['Marksman'], the Rebel
+101, Xerath, ['Mage'], the Magus Ascendant
+5, Xin Zhao, ['Fighter', 'Assassin'], the Seneschal of Demacia
+157, Yasuo, ['Fighter', 'Assassin'], the Unforgiven
+777, Yone, ['Assassin', 'Fighter'], the Unforgotten
+83, Yorick, ['Fighter', 'Tank'], Shepherd of Souls
+350, Yuumi, ['Support', 'Mage'], the Magical Cat
+154, Zac, ['Tank', 'Fighter'], the Secret Weapon
+238, Zed, ['Assassin'], the Master of Shadows
+115, Ziggs, ['Mage'], the Hexplosives Expert
+26, Zilean, ['Support', 'Mage'], the Chronokeeper
+142, Zoe, ['Mage', 'Support'], the Aspect of Twilight
+143, Zyra, ['Mage', 'Support'], Rise of the Thorns
